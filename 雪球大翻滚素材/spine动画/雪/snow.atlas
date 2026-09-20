@@ -1,0 +1,13 @@
+
+snow.png
+size: 28,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xue
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1

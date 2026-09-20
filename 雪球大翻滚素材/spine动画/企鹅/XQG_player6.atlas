@@ -1,0 +1,69 @@
+
+XQG_player6.png
+size: 316,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: true
+  xy: 141, 37
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 2, 2
+  size: 101, 137
+  orig: 101, 137
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 270, 14
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+weijin1
+  rotate: false
+  xy: 195, 76
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: false
+  xy: 141, 5
+  size: 85, 30
+  orig: 85, 30
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 228, 10
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 195, 38
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 282, 48
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+zuoshuo
+  rotate: true
+  xy: 240, 48
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1

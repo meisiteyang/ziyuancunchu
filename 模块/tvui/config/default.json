@@ -1,0 +1,82 @@
+{
+  "designWidth": 1920,
+  "designHeight": 1080,
+  "cpId": "ppl",
+  "version": "1.0.0",
+  "defaultScopeId": "page",
+  "enableRemoteInput": true,
+  "enableLifecycle": true,
+  "focus": {
+    "enabled": true,
+    "frameEnabled": false,
+    "framePadding": 10,
+    "frameColor": "#ffd451",
+    "frameOpacity": 230,
+    "lineWidth": 5,
+    "animationTime": 0.1,
+    "defaultIconKey": "default",
+    "iconPlacement": "bottomRight",
+    "iconOffsetX": -20,
+    "iconOffsetY": 20,
+    "zIndex": 800
+  },
+  "icons": {
+    "default": {
+      "path": "tvui/icons/pointer-yellow-60",
+      "width": 60,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": 20
+    },
+    "yellow": {
+      "path": "tvui/icons/pointer-yellow-60",
+      "width": 60,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": 20
+    },
+    "blue": {
+      "path": "tvui/icons/pointer-blue-60",
+      "width": 60,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": 20
+    },
+    "pink": {
+      "path": "tvui/icons/pointer-pink-60",
+      "width": 60,
+      "height": 60,
+      "offsetX": -20,
+      "offsetY": 20
+    }
+  },
+  "adSdk": {
+    "platform": "xiaomi"
+  },
+  "ads": {
+    "reward": {
+      "enabled": true,
+      "mode": "reward",
+      "channels": [
+        { "type": "aggregate", "priority": 1, "rewardType": "reward" },
+        { "type": "mock", "priority": 100 }
+      ]
+    },
+    "popup": {
+      "enabled": true,
+      "mode": "popup",
+      "channels": [
+        { "type": "aggregate", "priority": 1 },
+        { "type": "mock", "priority": 100 }
+      ]
+    },
+    "game": {
+      "enabled": true,
+      "mode": "popup",
+      "channels": [
+        { "type": "aggregate", "priority": 1 },
+        { "type": "mock", "priority": 100 }
+      ]
+    }
+  }
+}

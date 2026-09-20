@@ -1,0 +1,46 @@
+{
+  "name": "ad-sdk",
+  "version": "1.0.0",
+  "description": "聚合广告 SDK - 电视端 JSBridge 适配，JS 源码 + TS 类型声明",
+  "main": "ad-sdk.js",
+  "types": "ad-sdk.d.ts",
+  "exports": {
+    ".": {
+      "require": "./ad-sdk.js",
+      "types": "./ad-sdk.d.ts"
+    },
+    "./types": {
+      "require": "./types/index.js",
+      "types": "./types/index.d.ts"
+    },
+    "./adapters/xiaomi-adapter": {
+      "require": "./adapters/xiaomi-adapter.js",
+      "types": "./adapters/xiaomi-adapter.d.ts"
+    },
+    "./event-emitter": {
+      "require": "./event-emitter.js",
+      "types": "./event-emitter.d.ts"
+    }
+  },
+  "files": [
+    "ad-sdk.js",
+    "ad-sdk.d.ts",
+    "event-emitter.js",
+    "event-emitter.d.ts",
+    "types/",
+    "adapters/"
+  ],
+  "keywords": [
+    "ad",
+    "sdk",
+    "jsbridge",
+    "tv",
+    "xiaomi",
+    "cocos"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^5.4.3",
+    "terser": "^5.48.0"
+  }
+}

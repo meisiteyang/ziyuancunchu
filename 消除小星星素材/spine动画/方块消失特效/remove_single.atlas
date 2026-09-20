@@ -1,0 +1,41 @@
+
+remove_single.png
+size: 248,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ls_003
+  rotate: false
+  xy: 2, 21
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+ls_025
+  rotate: false
+  xy: 2, 145
+  size: 140, 134
+  orig: 148, 148
+  offset: 4, 10
+  index: -1
+star
+  rotate: false
+  xy: 144, 182
+  size: 100, 97
+  orig: 109, 103
+  offset: 4, 5
+  index: -1
+star_033
+  rotate: false
+  xy: 144, 118
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+star_042
+  rotate: true
+  xy: 126, 2
+  size: 114, 116
+  orig: 132, 133
+  offset: 9, 8
+  index: -1

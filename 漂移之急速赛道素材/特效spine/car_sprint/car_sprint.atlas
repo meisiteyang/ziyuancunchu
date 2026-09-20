@@ -1,0 +1,48 @@
+
+car_sprint.png
+size: 368,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban-3277691115
+  rotate: false
+  xy: 141, 2
+  size: 96, 158
+  orig: 96, 158
+  offset: 0, 0
+  index: -1
+huaban-5632091730
+  rotate: false
+  xy: 2, 42
+  size: 137, 215
+  orig: 256, 256
+  offset: 60, 10
+  index: -1
+huaban-5646911745_01
+  rotate: false
+  xy: 239, 87
+  size: 127, 73
+  orig: 128, 128
+  offset: 0, 27
+  index: -1
+huaban-6258160034_01
+  rotate: true
+  xy: 239, 25
+  size: 60, 122
+  orig: 64, 128
+  offset: 1, 3
+  index: -1
+huaban-6803369455
+  rotate: true
+  xy: 141, 162
+  size: 95, 217
+  orig: 100, 228
+  offset: 2, 2
+  index: -1
+smoke001_16
+  rotate: false
+  xy: 2, 16
+  size: 16, 24
+  orig: 64, 64
+  offset: 31, 23
+  index: -1

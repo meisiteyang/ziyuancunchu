@@ -1,0 +1,76 @@
+
+grass.png
+size: 144,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grass_1
+  rotate: true
+  xy: 67, 110
+  size: 46, 64
+  orig: 49, 79
+  offset: 2, 1
+  index: -1
+grass_10
+  rotate: false
+  xy: 76, 199
+  size: 45, 36
+  orig: 49, 38
+  offset: 2, 1
+  index: -1
+grass_2
+  rotate: true
+  xy: 2, 61
+  size: 47, 67
+  orig: 49, 80
+  offset: 1, 1
+  index: -1
+grass_3
+  rotate: true
+  xy: 2, 201
+  size: 34, 72
+  orig: 36, 74
+  offset: 1, 1
+  index: -1
+grass_4
+  rotate: true
+  xy: 2, 162
+  size: 37, 71
+  orig: 39, 73
+  offset: 1, 1
+  index: -1
+grass_5
+  rotate: true
+  xy: 75, 158
+  size: 39, 64
+  orig: 41, 66
+  offset: 1, 1
+  index: -1
+grass_6
+  rotate: true
+  xy: 2, 118
+  size: 42, 63
+  orig: 46, 65
+  offset: 1, 1
+  index: -1
+grass_7
+  rotate: true
+  xy: 71, 61
+  size: 47, 66
+  orig: 50, 69
+  offset: 2, 1
+  index: -1
+grass_8
+  rotate: false
+  xy: 2, 8
+  size: 71, 51
+  orig: 75, 53
+  offset: 1, 1
+  index: -1
+grass_9
+  rotate: false
+  xy: 75, 2
+  size: 64, 57
+  orig: 67, 59
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+bottle.png
+size: 868,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle_1
+  rotate: false
+  xy: 2, 2
+  size: 329, 526
+  orig: 329, 526
+  offset: 0, 0
+  index: -1
+bottle_2
+  rotate: true
+  xy: 333, 215
+  size: 313, 532
+  orig: 313, 532
+  offset: 0, 0
+  index: -1
+pig_1
+  rotate: true
+  xy: 333, 4
+  size: 209, 158
+  orig: 228, 173
+  offset: 10, 7
+  index: -1
+pig_2
+  rotate: true
+  xy: 493, 4
+  size: 209, 155
+  orig: 228, 173
+  offset: 10, 7
+  index: -1
+pig_3
+  rotate: false
+  xy: 650, 70
+  size: 205, 143
+  orig: 228, 173
+  offset: 12, 7
+  index: -1

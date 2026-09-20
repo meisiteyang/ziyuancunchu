@@ -1,0 +1,27 @@
+
+prop_effects.png
+size: 628,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ls_009
+  rotate: false
+  xy: 2, 2
+  size: 484, 484
+  orig: 500, 500
+  offset: 8, 8
+  index: -1
+ls_041
+  rotate: false
+  xy: 488, 346
+  size: 137, 140
+  orig: 150, 150
+  offset: 6, 5
+  index: -1
+ls_30
+  rotate: false
+  xy: 488, 314
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

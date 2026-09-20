@@ -1,0 +1,13 @@
+
+coin_star.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star_039
+  rotate: false
+  xy: 2, 2
+  size: 211, 211
+  orig: 241, 241
+  offset: 15, 15
+  index: -1

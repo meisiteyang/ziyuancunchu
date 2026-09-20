@@ -1,0 +1,47 @@
+{
+  "name": "ad-sdk",
+  "version": "2.0.0",
+  "description": "聚合广告 SDK - 电视端 JSBridge 适配（Cocos Creator 3.x TypeScript 版本）",
+  "main": "ad-sdk.ts",
+  "types": "ad-sdk.ts",
+  "exports": {
+    ".": {
+      "import": "./ad-sdk.ts",
+      "types": "./ad-sdk.ts"
+    },
+    "./types": {
+      "import": "./types/index.ts",
+      "types": "./types/index.ts"
+    },
+    "./adapters/xiaomi-adapter": {
+      "import": "./adapters/xiaomi-adapter.ts",
+      "types": "./adapters/xiaomi-adapter.ts"
+    },
+    "./event-emitter": {
+      "import": "./event-emitter.ts",
+      "types": "./event-emitter.ts"
+    }
+  },
+  "files": [
+    "ad-sdk.ts",
+    "event-emitter.ts",
+    "types/",
+    "adapters/",
+    "reporters/"
+  ],
+  "keywords": [
+    "ad",
+    "sdk",
+    "jsbridge",
+    "tv",
+    "xiaomi",
+    "cocos",
+    "cocos-creator",
+    "typescript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "javascript-obfuscator": "^5.4.3",
+    "terser": "^5.48.0"
+  }
+}

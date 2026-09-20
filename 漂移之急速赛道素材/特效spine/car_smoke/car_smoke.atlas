@@ -1,0 +1,41 @@
+
+car_smoke.png
+size: 300,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke001_12
+  rotate: true
+  xy: 268, 48
+  size: 44, 30
+  orig: 64, 64
+  offset: 6, 21
+  index: -1
+smoke001_16
+  rotate: true
+  xy: 268, 30
+  size: 16, 24
+  orig: 64, 64
+  offset: 31, 23
+  index: -1
+smoke003_01
+  rotate: true
+  xy: 106, 2
+  size: 90, 78
+  orig: 92, 80
+  offset: 1, 1
+  index: -1
+smoke008_01
+  rotate: false
+  xy: 2, 5
+  size: 102, 87
+  orig: 104, 89
+  offset: 1, 1
+  index: -1
+smoke008_02
+  rotate: false
+  xy: 186, 12
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1

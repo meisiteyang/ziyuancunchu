@@ -1,0 +1,27 @@
+
+XQG_ying.png
+size: 152,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eagle_1
+  rotate: false
+  xy: 2, 61
+  size: 127, 34
+  orig: 127, 34
+  offset: 0, 0
+  index: -1
+eagle_2
+  rotate: false
+  xy: 2, 2
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+eagle_3
+  rotate: true
+  xy: 74, 6
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
